@@ -1,0 +1,8 @@
+prefix=/home/alaaeldin/follow_railway/src/railway_follow/insp_rail_pkg/build/devel
+
+Name: insp_rail_pkg
+Description: Description of insp_rail_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

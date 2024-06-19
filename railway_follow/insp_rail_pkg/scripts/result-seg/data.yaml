@@ -1,0 +1,21 @@
+names:
+- fallen-tree
+- generic-rock
+- generic-tree
+- railway
+- rock
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: railway-obstacles
+  url: https://universe.roboflow.com/university-of-genoa-a0rgb/railway-obstacles/dataset/2
+  version: 2
+  workspace: university-of-genoa-a0rgb
+test: /content/Railway-Obstacles-2/test/images
+train: /content/Railway-Obstacles-2/train/images
+val: /content/Railway-Obstacles-2/valid/images
+
+backbone:
+  name: CSPDarknet53
+  depth_multiple: 0.33
+  width_multiple: 0.50

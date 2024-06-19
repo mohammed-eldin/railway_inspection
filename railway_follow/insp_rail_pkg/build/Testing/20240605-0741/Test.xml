@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240605-0741-Experimental"
+	Name="alaaeldin-Lenovo-G50-80"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="alaaeldin-Lenovo-G50-80"
+	OSRelease="5.15.0-107-generic"
+	OSVersion="#117~20.04.1-Ubuntu SMP Tue Apr 30 10:35:57 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="61"
+	ProcessorCacheSize="4096"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="5841"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2765.21"
+	>
+	<Testing>
+		<StartDateTime>Jun 05 09:41 CEST</StartDateTime>
+		<StartTestTime>1717573294</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 05 09:41 CEST</EndDateTime>
+		<EndTestTime>1717573294</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
