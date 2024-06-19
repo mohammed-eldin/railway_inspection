@@ -26,12 +26,3 @@ The repo also contains scripts for data augmentation operations and video genera
  
 ## Note
 This repo is part of my master thesis project, for more info see the correspondant chapter of the written paper.
-
-LINK ALLA TESI
-
-## Other thesis repos
-
-This repo is to be used with the rest of the thesis project
-
- - The coppelia simulation: <https://github.com/LorenzoCausa/coppelia_rail_simulation> 
- - he bridge application between Linux computer and the drone controller: <https://github.com/LorenzoCausa/bridge_DJI_ROS>
